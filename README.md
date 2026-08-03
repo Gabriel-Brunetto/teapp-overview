@@ -39,8 +39,6 @@ em Docker até uma arquitetura completa na AWS:
 5. **AWS (produção)** — ALB distribuindo tráfego, arquitetura preparada para escala horizontal
 
 
-*(ou link para vídeo curto, se preferir hospedar fora do repo)*
-
 ## Destaques técnicos
 
 - **Contract-first mindset**: experiência prévia em QA testando contratos de API
@@ -55,13 +53,14 @@ em Docker até uma arquitetura completa na AWS:
 
 ## Capturas de tela
 
-| Tela De Login | Tela De Registro | Tela Principal | Pictograma |
-|---|---|---|
-| ![](screenshots/login.png) | ![](screenshots/register.png) | ![](screenshots/main.png) |  ![](screenshots/pictograma.png) |
+| Tela de login | Tela de registro | Tela principal | Pictograma |
+|---|---|---|---|
+| <img src="screenshots/login.png" width="180"> | <img src="screenshots/register.png" width="180"> | <img src="screenshots/main.png" width="180"> | <img src="screenshots/pictograma.png" width="180"> |
+
 
 ## Sobre o autor
 
 Gabriel Brunetto — Full Stack Developer, com base em QA técnico (Telefônica/Vivo).
 Estudante de Ciência da Computação (URI). AWS Certified Cloud Practitioner.
 
-[LinkedIn](https://www.linkedin.com/in/gabriel-brunetto) · [GitHub](https://github.com/Gabriel-Brunetto)
+[LinkedIn](https://www.linkedin.com/in/gabrielbrunetto) · [GitHub](https://github.com/Gabriel-Brunetto)
