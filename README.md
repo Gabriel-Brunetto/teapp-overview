@@ -63,4 +63,4 @@ em Docker até uma arquitetura completa na AWS:
 Gabriel Brunetto — Full Stack Developer, com base em QA técnico (Telefônica/Vivo).
 Estudante de Ciência da Computação (URI). AWS Certified Cloud Practitioner.
 
-[LinkedIn](https://www.linkedin.com/in/gabrielbrunetto) · [GitHub](https://github.com/Gabriel-Brunetto)
+[LinkedIn](https://www.linkedin.com/in/gabriel-brunetto) · [GitHub](https://github.com/Gabriel-Brunetto)
